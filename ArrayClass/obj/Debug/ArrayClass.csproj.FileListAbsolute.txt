@@ -1,0 +1,6 @@
+C:\Users\Admin\RiderProjects\Lab2_T2009A_PVHung\ArrayClass\bin\Debug\ArrayClass.exe
+C:\Users\Admin\RiderProjects\Lab2_T2009A_PVHung\ArrayClass\bin\Debug\ArrayClass.pdb
+C:\Users\Admin\RiderProjects\Lab2_T2009A_PVHung\ArrayClass\obj\Debug\ArrayClass.csprojAssemblyReference.cache
+C:\Users\Admin\RiderProjects\Lab2_T2009A_PVHung\ArrayClass\obj\Debug\ArrayClass.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\Lab2_T2009A_PVHung\ArrayClass\obj\Debug\ArrayClass.exe
+C:\Users\Admin\RiderProjects\Lab2_T2009A_PVHung\ArrayClass\obj\Debug\ArrayClass.pdb
